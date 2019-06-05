@@ -1,6 +1,6 @@
 # Education Longitudinal Study of 2002 analysis
 
-An article published by Alex Bowers and Ryan Sprott found that a growth mixture model (GMM) was successful in identifying 2 main subgroups associated with dropping out, which accounted for 24.6% of the sample but contained 91.8% of the dropouts of the data used in their study. Using the same data provided by the National Center for Education Statistics, a gaussian mixture model was built using longitudinal student cumulative GPA data to predict the likelihood a student will dropout of high school in an attempt to replicate their study.
+An article published by Alex Bowers and Ryan Sprott found that a growth mixture model (GMM) was successful in identifying 2 main subgroups associated with dropping out, which accounted for 24.6% of the sample but contained 91.8% of the dropouts in the data utilized in their study. Using the same data provided by the National Center for Education Statistics, a gaussian mixture model was built using longitudinal student cumulative GPA data to predict the likelihood a student will dropout of high school in an attempt to replicate their study.
 
 
 Bowers, Alex J., and Ryan Sprott. "Examining the multiple trajectories associated with dropping out of high school: A growth mixture model analysis." The journal of educational research 105.3 (2012): 176-195.
